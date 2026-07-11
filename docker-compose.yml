@@ -1,0 +1,17 @@
+services:
+  hirestack:
+    build: .
+    container_name: hirestack
+    restart: unless-stopped
+    ports:
+      - "5354:5354"
+    environment:
+      - PORT=5354
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-change-me}
+      - COMPANY_NAME=${COMPANY_NAME:-Our company}
+      - DB_PATH=/app/data/hirestack.db
+    volumes:
+      - hirestack-data:/app/data
+
+volumes:
+  hirestack-data:
