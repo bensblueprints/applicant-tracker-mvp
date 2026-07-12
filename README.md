@@ -61,7 +61,7 @@ Node 20 + Express + better-sqlite3 · React 18 + Vite + Tailwind 4 + Framer Moti
 
 ## ☕ Skip the setup — get the 1-click installer
 
-Want the packaged Windows installer with everything pre-wired? Grab it here: **[https://whop.com/onetime-suite](https://whop.com/onetime-suite)**
+Want the packaged Windows installer with everything pre-wired? Grab it here: **[https://whop.com/benjisaiempire/hirestack-app](https://whop.com/benjisaiempire/hirestack-app)**
 
 ## Verification
 
