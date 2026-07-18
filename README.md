@@ -1,5 +1,9 @@
 # 🗂️ Hirestack — the hiring pipeline a small company actually needs
 
+## Demo
+
+VIDEO-PLACEHOLDER
+
 ![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
 
 Self-hosted applicant tracking: post jobs, get a public careers page with application forms instantly, drag candidates through a kanban pipeline, store resumes on your own disk, and keep notes + interview scorecards where the whole team can see them.
